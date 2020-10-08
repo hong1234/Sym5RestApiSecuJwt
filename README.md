@@ -69,3 +69,12 @@ Body
     "password":"vuanh"
 }
 
+// Api access
+
+POST/GET/PUT/DELETE localhost:8000/api/posts
+
+Authorization
+ 
+    TYPE: Bearer Token
+
+    Token: xxxxxxxxxxxxxxxxxxxxxxx
